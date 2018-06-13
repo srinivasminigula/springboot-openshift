@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: srinivasminigula
+Build-Jdk: 10.0.1
+Implementation-Title: demo-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring.log4j2.log
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/logger
+Created-By: Maven Integration for Eclipse
+
